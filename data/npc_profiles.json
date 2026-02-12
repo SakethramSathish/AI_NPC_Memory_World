@@ -1,0 +1,16 @@
+[
+  {
+    "npc_id": "npc_eldon",
+    "name": "Eldon",
+    "personality": "sarcastic but loyal",
+    "mood": "neutral",
+    "relationship_score": -21
+  },
+  {
+    "npc_id": "npc_mira",
+    "name": "Mira",
+    "personality": "warm, curious, and observant",
+    "mood": "neutral",
+    "relationship_score": -4
+  }
+]
